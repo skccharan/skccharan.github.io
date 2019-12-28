@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Set theme
 remote_theme: daviddarnes/alembic
 
@@ -54,3 +55,6 @@ collections:
     feature_text: |
       Welcome to my blog
     feature_image: "https://picsum.photos/2560/600?image=866"
+=======
+theme: jekyll-theme-minimal
+>>>>>>> c1f6fa27bc2f9ca2f49611c3cece6bf32e95c94b
